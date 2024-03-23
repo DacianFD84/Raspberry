@@ -4,4 +4,6 @@ git init
 git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/DacianFD84/Raspberry.git
+git pull origin main
+
 git push -u origin master:main
